@@ -8,8 +8,8 @@ Install Gemini SDK in your .env
 
 `pip install google-genai`  
 
-* Download the script you want to use and place in a folder inside your .env.
-* Open Powershell inside a folder where you want the videos to be saved.
+* Download the script you want to use and place in a folder inside your .env. Videos will save to the same folder as your script is located.
+* Open Powershell in your .env.
 * Set your API key to either enviroment or inside the script.
 * Set your prompt and/or source image inside the scrip.
 * From Powershell open the script inside your .env.
